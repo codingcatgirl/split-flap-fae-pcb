@@ -15,7 +15,7 @@ Comment,Designator,Footprint,LCSC
 "WS2815","J9","Connector_JST:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical","C144394"
 "47uH","L1","Inductor_SMD:L_Chilisin_BMRx00060630","C475913"
 "220","R1","Resistor_SMD:R_0402_1005Metric","C25091"
-"10k","R2,R3,R5,R6,R7","Resistor_SMD:R_0402_1005Metric","C25744"
+"10k","R2,R3,R5,R6,R7,R8","Resistor_SMD:R_0402_1005Metric","C25744"
 "5k9","R4","Resistor_SMD:R_0402_1005Metric","C273691"
 "RESET","SW1","Button_Switch_SMD:SW_SPST_SKQG_WithStem","C318884"
 "TPS5430","U1","Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.514x3.2mm_ThermalVias","C9864"
