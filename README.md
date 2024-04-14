@@ -1,6 +1,6 @@
 # Split-Flap Fae PCB
 
-This repository contains an alternative, drop-in improved replacement PCB for [David Kingsman's Split-Flap Display](https://github.com/Dave19171/split-flap). 
+This repository contains an alternative, improved, drop-in replacement PCB for [David Kingsman's Split-Flap Display](https://github.com/Dave19171/split-flap). 
 
 ![3D rendering of the PCB](splitflappcb.png)
 
