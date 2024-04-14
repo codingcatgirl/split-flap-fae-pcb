@@ -2,6 +2,8 @@
 
 This repository contains an alternative, drop-in improved replacement PCB for [David Kingsman's Split-Flap Display](https://github.com/Dave19171/split-flap). 
 
+![3D rendering of the PCB](splitflappcb.png)
+
 It provides the following Features:
 
 - Identical PCB outline, connectors and connector positions.
