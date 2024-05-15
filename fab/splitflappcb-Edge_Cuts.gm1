@@ -1,11 +1,11 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.10*
-G04 #@! TF.CreationDate,2024-02-04T23:07:42+01:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.2*
+G04 #@! TF.CreationDate,2024-05-15T20:43:00+02:00*
 G04 #@! TF.ProjectId,splitflappcb,73706c69-7466-46c6-9170-7063622e6b69,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Profile,NP*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.10) date 2024-02-04 23:07:42*
+G04 Created by KiCad (PCBNEW 8.0.2) date 2024-05-15 20:43:00*
 %MOMM*%
 %LPD*%
 G01*
