@@ -1,6 +1,8 @@
 # Split-Flap Fae PCB
 
-This repository contains an alternative, improved, drop-in replacement PCB for [David Kingsman's Split-Flap Display](https://github.com/Dave19171/split-flap). 
+This repository contains an alternative, improved, (near) drop-in replacement PCB for [David Kingsman's Split-Flap Display](https://github.com/Dave19171/split-flap). 
+
+**Please note** that due to some changes in pinout, you need to use [evilscientress' improved fork of the firmware](https://github.com/evilscientress/split-flap), which was specifically created along with this PCB.
 
 ![3D rendering of the PCB](splitflappcb.png)
 
